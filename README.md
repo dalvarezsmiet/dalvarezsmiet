@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @dalvarezsmiet
 - 👀 I’m interested in .NET, Angular and Python.
-- 🌱 I’m currently learning Python
 
 <!---
 dalvarezsmiet/dalvarezsmiet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
